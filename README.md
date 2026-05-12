@@ -1,8 +1,8 @@
 # AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/arXiv-xxxx.xxxx-b31b1b.svg" alt="arXiv">
+  <a href="https://arxiv.org/abs/2605.10239">
+    <img src="https://img.shields.io/badge/arXiv-2605.10239-b31b1b.svg" alt="arXiv">
   </a> &nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/Project%20Page-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="Project Page">
@@ -147,5 +147,10 @@ This project is built upon [Long-LRM](https://github.com/arthurhero/Long-LRM) an
 If you find this work useful, please cite:
 
 ```bibtex
-
+@article{adaptsplat2026,
+  title={AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting},
+  author={Mingwei Xing, Xinliang Wang, Yifeng Shi},
+  journal={arXiv preprint arXiv:2605.10239},
+  year={2026}
+}
 ```
