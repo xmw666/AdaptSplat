@@ -147,10 +147,10 @@ This project is built upon [Long-LRM](https://github.com/arthurhero/Long-LRM) an
 If you find this work useful, please cite:
 
 ```bibtex
-@article{adaptsplat2026,
-  title={AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting},
-  author={Mingwei Xing, Xinliang Wang, Yifeng Shi},
-  journal={arXiv preprint arXiv:2605.10239},
-  year={2026}
+@article{xing2026adaptsplat,
+  title   = {AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting},
+  author  = {Xing, Mingwei and Wang, Xinliang and Shi, Yifeng},
+  journal = {arXiv preprint arXiv:2605.10239},
+  year    = {2026}
 }
 ```
