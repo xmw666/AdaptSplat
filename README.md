@@ -4,7 +4,7 @@
   <a href="https://arxiv.org/abs/2605.10239">
     <img src="https://img.shields.io/badge/arXiv-2605.10239-b31b1b.svg" alt="arXiv">
   </a> &nbsp;
-  <a href="#">
+  <a href="https://xmw666.github.io/adaptsplat_proj/">
     <img src="https://img.shields.io/badge/Project%20Page-4CAF50?style=flat&logo=googlechrome&logoColor=white" alt="Project Page">
   </a> &nbsp;
   <a href="https://huggingface.co/koun123/AdaptSplat/tree/main">
