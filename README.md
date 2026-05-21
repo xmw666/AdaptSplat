@@ -73,6 +73,12 @@ pretrian_weight/
 └── dinov3_convnext_base_pretrain_lvd1689m-801f2ba9.pth
 ```
 
+Next, get the official dinov3 codebase.
+
+```
+git clone https://github.com/facebookresearch/dinov3.git
+```
+
 ### AdaptSplat Checkpoint
 
 | Checkpoint | Training Data | Resolution | Download |
